@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RJPGTXT</string>
+    <string name="textview" />
+    <string name="Contenido" />
+    <string name="boton2" />
+    <string name="ingrese">Ingrese su nombre</string>
+    <string name="cargar">Grabar</string>
+    <string name="carga">Cargar</string>
+</resources>
